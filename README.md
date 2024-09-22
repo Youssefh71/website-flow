@@ -4,3 +4,4 @@
 - pizza thon
 - pizza savoyard
 - pizza forestiere
+- pizza merguez
